@@ -1,4 +1,4 @@
 django-chat
 ===========
 
-HTML5 chatroom with web sockets support
+HTML5 chat widget with web sockets and comet support
